@@ -7,11 +7,11 @@ const litral =()=>
         PostOfficeCode:255
     }
 
-console.log(`Suraj shapkota is working on office name ${refliteral.organizationName}, The location of 
+console.log(`Suraj sapkota is working on office name ${refliteral.organizationName}, The location of 
 suraj office is ${refliteral.Location}  He use to send letter to his office ${refliteral.organizationName} and 
 he uses post code number ${refliteral.PostOfficeCode} `);
 
 }
 
-let func= litral()
+let func= litral() 
 console.log(func);
