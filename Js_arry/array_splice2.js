@@ -1,5 +1,7 @@
 const monthName= ()=>
 {
+
+    // comment?
     const month=['jan','feb','march','may','july','aug','oct']
     month.splice(3,0,'april');
     console.log(month);
