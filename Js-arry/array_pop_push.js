@@ -1,11 +1,29 @@
-const func =()=>
+const func= ()=>
 {
+    
+    // push array function
     const myarr= ["sunday","monday","tuesday","wednesday"]
     myarr.push("thursday");
     console.log(myarr);
-}
 
-console.log(func());
+    // pop array function
+     const month= ["jan","feb","march","april","october"]
+     month.pop("october");
+      console.log(month);
+
+
+}
+let arry= func();
+console.log(arry);
+
+
+
+
+
+
+
+
+
 
 
 //syntax
