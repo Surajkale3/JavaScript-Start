@@ -25,6 +25,5 @@ console.log(arry);
 
 
 
-
 //syntax
 // arry_name .push()
