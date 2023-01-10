@@ -5,7 +5,7 @@ const stt= "Suraj"
 
 
  // use of filter 
- const Vehicles = ["Taxi", "Car" , "MoterBike", "Bus", "Bycycle","tesla"];
+ const Vehicles = ["Taxi", "Car" , "MoterBike", "Bus", "Bicycle","tesla"];
  let result=Vehicles.filter(item=>item.length>3);
  console.log(result);
 

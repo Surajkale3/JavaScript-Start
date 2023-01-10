@@ -1,7 +1,8 @@
-const months=['jan','feb','march','apr','may'];
+const month=['jan','feb','march','april','may'];
 const copyItems=[];
-months.forEach((x)=> 
+month.forEach((x)=>
 {
- copyItems.push(x);
+    copyItems.push(x);
+
 })
 console.log(copyItems);
