@@ -3,7 +3,7 @@ const litral =()=>
     let refliteral= 
     {
         organizationName:"Midas Technology",
-        Location:"Panipokhar IME Complex",
+        Location:"Panipokhari IME Complex",
         PostOfficeCode: 0165454
     }
 
