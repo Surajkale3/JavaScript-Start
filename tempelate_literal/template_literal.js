@@ -2,9 +2,9 @@ const litral =()=>
 {
     let refliteral= 
     {
-        organizationName:"midas Technology",
-        Location:"Panipokhari Ime Complex",
-        PostOfficeCode:255
+        organizationName:"Midas Technology",
+        Location:"Panipokhar IME Complex",
+        PostOfficeCode: 0165454
     }
 
 console.log(`Suraj sapkota is working on office name ${refliteral.organizationName}, The location of 
