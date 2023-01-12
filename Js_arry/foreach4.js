@@ -4,4 +4,4 @@ wallet.forEach((x)=>
 {
     copyItems.push(x);
 })
-console.log(copyItems);
+console.log(copyIems);
