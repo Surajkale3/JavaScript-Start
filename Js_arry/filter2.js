@@ -1,3 +1,5 @@
+//use of filter with function
+
 const odd= (numbers)=>
 {
     return numbers<10;

@@ -1,3 +1,5 @@
+// array splice function
+
 const digitalPay= ()=>
 {
     const wallet=["esewa","khalti","imepay","fonepay","bharatpay"];
