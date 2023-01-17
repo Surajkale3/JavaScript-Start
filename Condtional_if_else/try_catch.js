@@ -1,10 +1,16 @@
 
+
+try 
+{
+
 let switt= (day)=>
 {
-let result;
+
+    let result = "";
+
     switch (day){
         case 1:
-            result= 'Sunday';
+            result= "sunday";
             break;
         case 2:
             result= 'Monday';
@@ -32,5 +38,12 @@ let result;
     return result
 }
 
-console.log(switt(5));
+console.log(switt(1));
+
+} catch(err)
+{
+console.log(err);
+}
+
+
 
