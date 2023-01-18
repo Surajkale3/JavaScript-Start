@@ -1,33 +1,33 @@
 const dayName=(day)=>
 {
-    let result;
+    let dayy;
 switch (day){
     case 1:
-        result= 'Sunday';
+        dayy= 'Sunday';
         break;
     case 2:
-        result= 'Monday';
+        dayy= 'Monday';
         break;
     case 3:
-        result= 'Tuesday';
+        dayy= 'Tuesday';
         break;
     case 4:
-        result= 'Wednesday';
+        dayy= 'Wednesday';
         break;
     case 5:
-        result= 'Thursday';
+        dayy= 'Thursday';
         break;
     case 6:
-        result= 'Friday';
+        dayy= 'Friday';
         break;
     case 7:
-        result= 'Saturday';
+        dayy= 'Saturday';
         break;
     default:
-        result= 'Invalid day';
+        dayy= 'Invalid day';
         }
 
-        return result;
+        return dayy;
     }
 
     console.log(dayName(5));
