@@ -15,4 +15,4 @@ else
     console.log("My salary is less than your salary");
 }
 }
-console.log(salary(6000,6000));
+return(salary(60000,60000));
